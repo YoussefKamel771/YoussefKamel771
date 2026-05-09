@@ -41,4 +41,8 @@ I'm eager to contribute my abilities in modeling, analysis, visualization, and e
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YoussefKamel771" alt="youssefkamel771" /></a> </p>
 
+## 📊 AI Engineering Dashboard
+
+<img src="https://github.com/YoussefKamel771/YoussefKamel771/blob/main/github-metrics.svg" />
+
 ---
